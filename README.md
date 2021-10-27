@@ -1,0 +1,2 @@
+# SmallTools_TransitionTool_Product
+多语言字符串转 C 格式工具_Release
